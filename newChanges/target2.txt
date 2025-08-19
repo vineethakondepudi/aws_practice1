@@ -1,1 +1,9 @@
-Hello target2
+Pick the first commit, mark others as squash (s).
+
+This merges all 5 commits into one.
+
+✅ Use squash when:
+
+You want a clean history.
+
+Preparing a feature branch to merge into main without too much noise.
