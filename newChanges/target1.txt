@@ -1,0 +1,5 @@
+Hello target1
+w
+W!
+Q
+:q
